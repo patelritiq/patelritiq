@@ -117,9 +117,9 @@ Nov 2025 – Present
 
 **Internships**
 
-• Machine Learning Intern — AspireNex (Remote)
-• Python Development Intern — Sudaku CodeClause (Hybrid)
-• Data Science & Analytics Intern — Zidio Development (Remote)
+• Machine Learning Virtual Intern — AspireNex (Remote)  
+• Python Development Intern — Sudaku CodeClause (Hybrid)  
+• Data Science & Analytics Intern — Zidio Development (Remote)  
 
 ---
 
@@ -134,7 +134,7 @@ Nov 2025 – Present
 
 # 📝 Blog
 
-I occasionally write about technology, football, cinema, cricket, literature and related topics.
+I occasionally write about technology, football, cinema, cricket, literature and related topics.   
 Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 
 ---
@@ -159,3 +159,4 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 *"Building data-driven applications and intelligent systems."*
 
 </div>
+
