@@ -22,7 +22,7 @@ I enjoy building **data-driven systems, machine learning models, analytics dashb
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 📊 Data Analytics & Machine Learning
 
@@ -59,11 +59,11 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 <div align="center">
 
 <a href="https://github.com/patelritiq/Government-Scheme-MSME-Analytics-MPSEDC">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics-MPSEDC&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics-MPSEDC&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/patelritiq/SmartFace-Attendance">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -71,11 +71,11 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 <div align="center">
 
 <a href="https://github.com/patelritiq/Balloon-Buster-2.0">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/patelritiq/my-first-web-application">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=my-first-web-application&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=my-first-web-application&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -110,13 +110,13 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelritiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelritiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patelritiq&layout=compact&langs_count=5&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patelritiq&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -128,7 +128,7 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=patelritiq&theme=tokyo-night&hide_border=true"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=patelritiq&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -202,17 +202,16 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 
 </div>
 
-
+---
 
 <div align="center">
-
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=patelritiq&color=blueviolet&style=flat-square)
 
 *"Building data-driven applications and intelligent systems."*
 
 </div>
+
 
 
 
