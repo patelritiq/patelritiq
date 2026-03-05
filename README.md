@@ -57,15 +57,13 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 ## 📌 Pinned Projects
 
 <div align="center">
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics&theme=tokyonight&hide_border=true"/>
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics-MPSEDC&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelritiq&repo=carbon-conscious-quantifier&theme=tokyonight"/>
-
+<div align="center">
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight&hide_border=true"/>
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=carbon-conscious-quantifier&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -124,8 +122,8 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 
 # 💼 Professional Experience
 
-**Graduate Engineer Trainee — MPSEDC**  
-Nov 2025 – Present  
+**Graduate Engineer Trainee - MPSEDC**  
+Nov 2025 - Present  
 
 - Contributing to live **statewide government applications serving lakhs of users**
 - Handling **database logic, feature development, and module enhancement**
@@ -133,15 +131,15 @@ Nov 2025 – Present
 
 **Internships**
 
-• Machine Learning Virtual Intern — AspireNex (Remote)  
-• Python Development Intern — Sudaku CodeClause (Hybrid)  
-• Data Science & Analytics Intern — Zidio Development (Remote)  
+• Machine Learning Virtual Intern - AspireNex (Remote)  
+• Python Development Intern - Sudaku CodeClause (Hybrid)  
+• Data Science & Analytics Intern - Zidio Development (Remote)  
 
 ---
 
 # 📊 Highlights
 
-- 🎓 **B.Tech CSE – 8.77 CGPA**
+- 🎓 **B.Tech CSE - 8.77 CGPA**
 - 📊 Built analytics dashboards processing **19K+ records**
 - 🤖 ML models trained on datasets up to **280K records**
 - 👥 Face recognition system with **100+ samples per user**
@@ -160,23 +158,23 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 <div align="center">
 
 <a href="https://linkedin.com/in/patelritiq">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:15px"/>
 </a>
 
 <a href="https://github.com/patelritiq">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40" style="margin-right:15px"/>
 </a>
 
 <a href="mailto:patelritiq@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin-right:15px"/>
 </a>
 
 <a href="https://patelritiq.blogspot.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/blogger/FF5722" height="40" style="margin-right:15px"/>
 </a>
 
 <a href="https://x.com/patelritiq">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/x/FFFFFF" height="40" style="margin-right:15px"/>
 </a>
 
 <a href="https://instagram.com/patelritiq">
@@ -194,5 +192,6 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 *"Building data-driven applications and intelligent systems."*
 
 </div>
+
 
 
