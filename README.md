@@ -58,12 +58,12 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 
 <div align="center">
 
-<a href="https://github.com/patelritiq/Government-Scheme-MSME-Analytics">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics-MPSEDC&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/patelritiq/Government-Scheme-MSME-Analytics-MPSEDC">
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics-MPSEDC&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/patelritiq/SmartFace-Attendance">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -71,11 +71,11 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 <div align="center">
 
 <a href="https://github.com/patelritiq/Balloon-Buster-2.0">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/patelritiq/my-first-web-application">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=my-first-web-application&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=my-first-web-application&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -110,7 +110,7 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -134,7 +134,7 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
 **Graduate Engineer Trainee - MPSEDC**  
 Nov 2025 - Present  
@@ -151,7 +151,7 @@ Nov 2025 - Present
 
 ---
 
-# 📊 Highlights
+## 📊 Highlights
 
 - 🎓 **B.Tech CSE - 8.77 CGPA**
 - 📊 Built analytics dashboards processing **19K+ records**
@@ -160,7 +160,7 @@ Nov 2025 - Present
 
 ---
 
-# 📝 Blog
+## 📝 Blog
 
 I occasionally write about technology, football, cinema, cricket, literature and related topics.   
 Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
@@ -192,16 +192,15 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/patelritiq">
-<img src="https://cdn.simpleicons.org/x/ffffff" height="38"/>
+<img src="https://cdn.simpleicons.org/x/ffffff" height="36"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/patelritiq">
-<img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 </div>
----
 
 <div align="center">
 
@@ -210,6 +209,7 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 *"Building data-driven applications and intelligent systems."*
 
 </div>
+
 
 
 
