@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** working on large-scale government web applications serving lakhs of users. I specialize in building data-driven applications and have deep enthusiasm for **Data Analytics**, **Machine Learning**, and **Computer Vision**.
+I'm a **Software Engineer** working on large-scale government web applications serving lakhs of users. I specialize in building data-driven applications and have deep interests in **Data Analytics**, **Machine Learning**, **Computer Vision**, and **Artificial Intelligence**.
 
 - 🔭 Currently working on live government web applications handling 2,000-5,000+ records per module
 - 🌱 Exploring advanced ML techniques, computer vision, and full-stack development
@@ -35,6 +35,7 @@ I'm a **Software Engineer** working on large-scale government web applications s
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -66,11 +67,11 @@ I'm a **Software Engineer** working on large-scale government web applications s
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelritiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=patelritiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patelritiq&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelritiq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patelritiq&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=patelritiq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -107,7 +108,7 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelritiq)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelritiq@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://patelritiq.blogspot.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/patelritiq)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/patelritiq)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patelritiq)
 
 </div>
@@ -133,4 +134,3 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 **"Building data-driven applications and intelligent systems"**
 
 </div>
-
