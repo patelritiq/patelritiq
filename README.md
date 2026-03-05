@@ -66,12 +66,12 @@ I'm a **Software Engineer** working on large-scale government web applications s
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=patelritiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelritiq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=patelritiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patelritiq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelritiq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=patelritiq&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -134,3 +134,4 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 **"Building data-driven applications and intelligent systems"**
 
 </div>
+
