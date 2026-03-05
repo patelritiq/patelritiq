@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Analyst;Full-Stack+Developer;AI+Enthusiast;Machine+Learning+Explorer)](https://git.io/typing-svg)
 
 </div>
 
@@ -133,3 +133,4 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 **"Building data-driven applications and intelligent systems"**
 
 </div>
+
