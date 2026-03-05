@@ -15,8 +15,8 @@ I enjoy building **data-driven systems, machine learning models, analytics dashb
 
 - 🏛 Working on statewide government systems handling **2,000–5,000+ records per module**
 - 🤖 Interested in **Machine Learning, Data Analytics, and Computer Vision**
-- 💼 Graduate Engineer Trainee @ **MPSEDC – State IT Center, Bhopal**
-- 🎓 **B.Tech CSE (8.77 CGPA)** – RGPV
+- 💼 Graduate Engineer Trainee @ **MPSEDC - State IT Center, Bhopal**
+- 🎓 **B.Tech CSE (8.77 CGPA)** - RGPV
 - 📝 Writing about tech and other interests on **[my blog](https://patelritiq.blogspot.com)**
 - 📍 Bhopal, Madhya Pradesh, India
 
@@ -51,6 +51,22 @@ Collection of **4 Python applications** built during internship including Flask 
 
 **[Balloon-Buster 2.0](https://github.com/patelritiq/Balloon-Buster-2.0)**  
 Modern **C++17 arcade shooting game** with structured game engine, multiple levels, survival mode, sound effects, and cross-platform gameplay.
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics-MPSEDC&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelritiq&repo=carbon-conscious-quantifier&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -139,14 +155,33 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patelritiq)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelritiq)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelritiq@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://patelritiq.blogspot.com)
+<a href="https://linkedin.com/in/patelritiq">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/patelritiq">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="mailto:patelritiq@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://patelritiq.blogspot.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+</a>
+
+<a href="https://x.com/patelritiq">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
+</a>
+
+<a href="https://instagram.com/patelritiq">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
 
 </div>
 
@@ -159,4 +194,5 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 *"Building data-driven applications and intelligent systems."*
 
 </div>
+
 
