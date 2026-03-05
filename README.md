@@ -192,7 +192,7 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/patelritiq">
-<img src="https://cdn.simpleicons.org/x/ffffff" height="36"/>
+<img src="https://cdn.simpleicons.org/x/ffffff" height="34"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
@@ -202,13 +202,18 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 
 </div>
 
+
+
 <div align="center">
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=patelritiq&color=blueviolet&style=flat-square)
 
 *"Building data-driven applications and intelligent systems."*
 
 </div>
+
 
 
 
