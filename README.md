@@ -57,13 +57,27 @@ Modern **C++17 arcade shooting game** with structured game engine, multiple leve
 ## 📌 Pinned Projects
 
 <div align="center">
-<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics&theme=tokyonight&hide_border=true"/>
-<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight&hide_border=true"/>
+
+<a href="https://github.com/patelritiq/Government-Scheme-MSME-Analytics">
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Government-Scheme-MSME-Analytics-MPSEDC&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/patelritiq/SmartFace-Attendance">
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=SmartFace-Attendance&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
 
 <div align="center">
-<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight&hide_border=true"/>
-<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=carbon-conscious-quantifier&theme=tokyonight&hide_border=true"/>
+
+<a href="https://github.com/patelritiq/Balloon-Buster-2.0">
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=Balloon-Buster-2.0&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/patelritiq/my-first-web-application">
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelritiq&repo=my-first-web-application&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
 
 ---
@@ -158,31 +172,35 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 <div align="center">
 
 <a href="https://linkedin.com/in/patelritiq">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:15px"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/patelritiq">
-<img src="https://skillicons.dev/icons?i=github" height="40" style="margin-right:15px"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:patelritiq@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin-right:15px"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://patelritiq.blogspot.com">
-<img src="https://cdn.simpleicons.org/blogger/FF5722" height="40" style="margin-right:15px"/>
+<img src="https://cdn.simpleicons.org/blogger/FF5722" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/patelritiq">
-<img src="https://cdn.simpleicons.org/x/FFFFFF" height="40" style="margin-right:15px"/>
+<img src="https://cdn.simpleicons.org/x/ffffff" height="38"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/patelritiq">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="42"/>
 </a>
 
 </div>
-
 ---
 
 <div align="center">
@@ -192,6 +210,7 @@ Visit my blog: [patelritiq.blogspot.com](https://patelritiq.blogspot.com)
 *"Building data-driven applications and intelligent systems."*
 
 </div>
+
 
 
 
